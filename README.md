@@ -56,7 +56,7 @@ Build a system that allows:
 - Image Upload *(optional)*
 
 **Bonus:**  
-While typing the description, call an **AI API** to generate and display a short **summary** of the issue.
+While saving the ticket, call an **AI API** to generate and display a short **summary** of the issue.
 
 **On Submit:**
 - Save the ticket data in the JSON file  
