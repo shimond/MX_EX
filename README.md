@@ -141,11 +141,6 @@ Please submit your solution as a **GitHub repository link** containing both:
 - The **Angular frontend**
 - The **.NET backend**
 
-Your repository must include:
-- A clear **README.md** with setup and run instructions  
-- All configuration files (e.g., `appsettings.json`, `appsettings.Development.json`)  
-- The provided **JSON data file**
-
 ---
 
 ## 🧾 Evaluation Criteria
