@@ -94,10 +94,12 @@ While typing the description, call an **AI API** to generate and display a short
 
 ## 📬 Email Notifications
 
-All emails must be sent via **Gmail SMTP**, using your personal Gmail account.  
-❌ Do **not** use third-party email-sending services.
+All emails can be sent using **any of the following options**:
+- **Gmail SMTP**, using your personal Gmail account  
+- **Alternative email service implementation** (e.g., SendGrid, MailKit, AWS SES)  
+- **Mock email service** that simulates email sending (for example, logs messages to the console or stores them in memory)
 
-Send an email to the customer:
+Send an email to the customer (or simulate one) in the following cases:
 1. After creating a new ticket  
 2. Whenever the **status** changes  
 3. Whenever the **resolution text** changes  
@@ -127,21 +129,21 @@ The system includes the following key screens:
 
 | Login | New Ticket | Ticket Management |
 |:------:|:-----------:|:----------------:|
-| ![Login Screenshot](./login.png#gh-light-mode-only) | ![New Ticket Screenshot](./new-ticket.png#gh-light-mode-only) | ![Ticket Management Screenshot](./Picture1.png#gh-light-mode-only) |
+| ![Login Screenshot](./login.png#gh-light-mode-only) | ![New Ticket Screenshot](./new-ticket.png#gh-light-mode-only) | ![Ticket Management Screenshot](./ticket-management.png#gh-light-mode-only) |
 
-*(Use your own screenshots here or replace `Picture1.png` with multiple distinct images if available.)*
+*(Use your own screenshots here or replace with your actual UI captures.)*
 
 ---
 
 ## 🚀 Submission
 
 Please submit your solution as a **GitHub repository link** containing both:
-- The **React frontend**
+- The **Angular frontend**
 - The **.NET backend**
 
 Your repository must include:
 - A clear **README.md** with setup and run instructions  
-- All configuration files (e.g., `appsettings.json`, `appsettings.develpment.json`)  
+- All configuration files (e.g., `appsettings.json`, `appsettings.Development.json`)  
 - The provided **JSON data file**
 
 ---
@@ -155,12 +157,7 @@ Your repository must include:
 | **Architecture** | Proper separation of frontend, backend, and services |
 | **UI/UX** | User-friendly, clear, and responsive design |
 | **Bonus Features** | Authentication and AI integration implemented |
-| **Documentation** | Clear setup instructions and explanations |
 
 ---
 
 🧠 *Good luck and have fun building!*
-
-
-
-
