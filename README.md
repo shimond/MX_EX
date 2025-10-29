@@ -127,7 +127,7 @@ The system includes the following key screens:
 
 ### 🖼️ Screenshots
 
-| Login | New Ticket | Ticket Management |
+| Login | New Ticket | Ticket Management (Admin) |
 |:------:|:-----------:|:----------------:|
 | ![Login Screenshot](./login.png#gh-light-mode-only) | ![New Ticket Screenshot](./new-ticket.png#gh-light-mode-only) | ![Ticket Management Screenshot](./ticket-manage.png#gh-light-mode-only) |
 
