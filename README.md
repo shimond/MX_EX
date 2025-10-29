@@ -139,7 +139,7 @@ The system includes the following key screens:
 
 Please submit your solution as a **GitHub repository link** containing both:
 - The **Angular frontend**
-- The **.NET backend**
+- The **.NET8/9 backend**
 
 ---
 
