@@ -129,7 +129,7 @@ The system includes the following key screens:
 
 | Login | New Ticket | Ticket Management |
 |:------:|:-----------:|:----------------:|
-| ![Login Screenshot](./login.png#gh-light-mode-only) | ![New Ticket Screenshot](./new-ticket.png#gh-light-mode-only) | ![Ticket Management Screenshot](./ticket-management.png#gh-light-mode-only) |
+| ![Login Screenshot](./login.png#gh-light-mode-only) | ![New Ticket Screenshot](./new-ticket.png#gh-light-mode-only) | ![Ticket Management Screenshot](./ticket-manage.png#gh-light-mode-only) |
 
 *(Use your own screenshots here or replace with your actual UI captures.)*
 
