@@ -25,7 +25,7 @@ Build a system that allows:
 
 ## 🧰 Required Technologies
 
-- **Frontend:** Angular  
+- **Frontend:** React  
 - **Backend:** ASP.NET Core Web API *(preferably using Minimal API)*  
 - **Data Storage:** JSON file (provided)  
   - All read/write operations must be done on the **server-side only**
@@ -138,7 +138,7 @@ The system includes the following key screens:
 ## 🚀 Submission
 
 Please submit your solution as a **GitHub repository link** containing both:
-- The **Angular frontend**
+- The **React frontend**
 - The **.NET8/9 backend**
 
 ---
